@@ -1,33 +1,13 @@
-# This file may be used to create an environment using:
-# $ conda create --name <env> --file <this file>
-# platform: osx-64
-alabaster
-babel
-brotli-python
-bzip2
-ca-certificates
 certifi
 charset-normalizer
-docutils
-expat
 idna
-imagesize
 jinja2
-libcxx
-libffi
 markupsafe
-ncurses
-openssl
 packaging
 pip
 pygments
-pysocks
-python
-pytz
-readline
 requests
 setuptools
-snowballstemmer
 sphinx
 sphinxcontrib-applehelp
 sphinxcontrib-devhelp
@@ -35,13 +15,8 @@ sphinxcontrib-htmlhelp
 sphinxcontrib-jsmath
 sphinxcontrib-qthelp
 sphinxcontrib-serializinghtml
-sqlite
-tk
-tzdata
 urllib3
 wheel
-xz
-zlib
 numpy
 argparse
 matplotlib

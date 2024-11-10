@@ -1,23 +1,16 @@
 # FarmGBM12
 
 ## Overview
-FarmGBM12 is a project for the D400 Research Computing course. This project involves using Gradient Boosting Machines (GBM) to analyze farm data.
-
-## Project Structure
-- `data/`: Contains the datasets used for analysis.
-- `scripts/`: Includes all the scripts for data processing and model training.
-- `notebooks/`: Jupyter notebooks for exploratory data analysis and model evaluation.
-- `results/`: Stores the results of the analysis and model predictions.
+FarmGBM12 simulates 1D Brownian Motion and plots displacement over time for the D400 Research Computing course.
 
 ## Installation
-To run this project, you need to have Python installed. You can install the required packages using:
-
+Ensure Python is installed. Install packages with:
 ```bash
 pip install -r requirements.txt
 ```
 
 ## Usage
-1. Clone the repository:git branch -M main
+1. Clone the repository:
     ```bash
     git clone https://github.com/Farmer122/farmgbm12.git
     ```
@@ -25,13 +18,13 @@ pip install -r requirements.txt
     ```bash
     cd farmgbm12
     ```
-3. Run the scripts or notebooks as needed.
+3. Run the scripts or notebooks.
 
 ## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
+Fork the repository and submit a pull request.
 
 ## License
-This project is licensed under the MIT License.
+MIT License.
 
 ## Contact
-For any questions or issues, please contact Jamal Lawal at jamallawal1000@gmail.com
+Questions? Contact Jamal Lawal at jamallawal1000@gmail.com

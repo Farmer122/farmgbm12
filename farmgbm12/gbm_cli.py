@@ -3,7 +3,7 @@ from farmgbm12.GeometricBrownian import pygbm
 import matplotlib.pyplot as plt
 
 def main():
-    # Step 1: Parse command-line arguments
+    
     parser = argparse.ArgumentParser(description="Simulate Geometric Brownian Motion (GBM) paths")
     parser.add_argument("--y0", type=float, required=True, help="Initial value of Y0")
     parser.add_argument("--mu", type=float, required=True, help="Drift coefficient (mu)")

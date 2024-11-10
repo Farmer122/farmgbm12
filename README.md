@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ## Usage
 1. Clone the repository:git branch -M main
     ```bash
-    git clone https://github.com/yourusername/farmgbm12.git
+    git clone https://github.com/Farmer122/farmgbm12.git
     ```
 2. Navigate to the project directory:
     ```bash
